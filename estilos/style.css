@@ -24,3 +24,6 @@ a{
     text-decoration: none;
     font-weight: bold;
 }
+img.lado{
+    float: right;
+}
