@@ -14,9 +14,13 @@ main{
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
     padding: 10px;
 }
-h1, h2{
+h1, h2,a{
     color: rgb(68, 9, 124);
 }
 h1{
     font-size: 1.8em;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
 }
